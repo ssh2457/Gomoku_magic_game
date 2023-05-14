@@ -1,0 +1,23 @@
+﻿  main.c
+C:\Users\ssh24\Desktop\pomoku\test\main.c(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ssh24\Desktop\pomoku\test\main.c(302,14): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Desktop\pomoku\test\main.c(303,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Desktop\pomoku\test\main.c(310,16): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Desktop\pomoku\test\main.c(311,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Desktop\pomoku\test\main.c(323,34): warning C4267: 'function': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\ssh24\Desktop\pomoku\test\main.c(323,39): warning C4267: 'function': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  pomoku.c
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(278,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(285,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(292,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(308,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(315,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(322,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(338,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(359,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(381,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(398,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(414,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\pomoku\test\pomoku.c(428,76): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  test.vcxproj -> C:\Users\ssh24\Desktop\pomoku\x64\Debug\test.exe

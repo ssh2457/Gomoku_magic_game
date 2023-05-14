@@ -1,0 +1,17 @@
+﻿  main.c
+  pomoku.c
+C:\Users\ssh24\Desktop\test\test\pomoku.c(142,9): warning C4013: 'assert' undefined; assuming extern returning int
+C:\Users\ssh24\Desktop\test\test\pomoku.c(279,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(286,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(293,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(309,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(316,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(323,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(339,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(360,80): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(382,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(399,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(415,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ssh24\Desktop\test\test\pomoku.c(429,76): warning C4018: '>=': signed/unsigned mismatch
+pomoku.obj : error LNK2001: unresolved external symbol assert
+C:\Users\ssh24\Desktop\test\x64\Release\test.exe : fatal error LNK1120: 1 unresolved externals
