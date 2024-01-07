@@ -13,12 +13,11 @@ Also, players can use skills if they have enough points. Skills can be used to r
 * Swap rows/columns (-2 points)  
 * Insert blank rows/columns wherever desired (-3 points)  
 * Remove row/column (-3 points)  
+* Copy rows/columns (-4 points)  
 
-Copy rows/columns (-4 points)  
 Each time a player uses a special skill, a number of points decrease as indicated above. Players who do not have enough points cannot use special skills. Connecting stones from using skills does not increase the player's points. The size of the board can change due to some skills. The minimum board size is 10 x 10 and the maximum size is 20 x 20. Once the board reaches 10 x 10, using skills will no longer shrink it. Similarly, boards that become 20 x 20 do not increase in size due to skills.
 
-![demonstration_start](./images/demonstration_start.png)
-<figure>
+<figure align="center">
     <img src="./images/demonstration_start.png" title="demonstration_start">    
     <figcaption>demonstration: start image</figcaption>
 </figure>
