@@ -1,0 +1,11 @@
+﻿  gomoku.c
+  main.c
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(302,14): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(303,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(310,16): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(311,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(323,34): warning C4267: 'function': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\Gomoku_magic_game\main.c(323,39): warning C4267: 'function': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  Generating Code...
+  Gomoku_magic_game.vcxproj -> C:\Users\ssh24\Documents\Gomoku_magic_game\Gomoku_magic_game\x64\Debug\Gomoku_magic_game.exe
