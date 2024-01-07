@@ -1,8 +1,9 @@
 # Gomoku magic game
 
-## This games is based on Gomoku. Gomoku is traditionally played wtih Go pieces on 15x15 size board. The rule of Gomoku follows as:  
+This games is based on Gomoku. Gomoku is traditionally played wtih Go pieces on 15x15 size board. The rule of Gomoku follows as:  
 Players are always two people. Each player uses repectively black and white stone. Players take turns placing their stones one by one on empty spaces on the board. The goal of the game is to connect 5 stones seamlessly horizontally, vertically, or diagonally.  
-## However, instead of black and white stones, players in Gomoku magic game use () and [] symbols and earn points by seamlessly connecting five or more stones.  
+  
+However, instead of black and white stones, players in Gomoku magic game use () and [] symbols and earn points by seamlessly connecting five or more stones.  
 For example,  
 * +1 point if 5 stones are connected  
 * +2 points if 6 stones are connected  
@@ -19,5 +20,10 @@ Each time a player uses a special skill, a number of points decrease as indicate
 
 <p align="center">
     <img src="./images/demonstration_start.png" title="demonstration_start">    
-    demonstration: start image
+    demonstration image: game start
+</p
+
+<p align="center">
+    <img src="./images/demonstration_playing1.png" title="demonstration_playing1">    
+    demonstration image: game playing
 </p
