@@ -21,9 +21,9 @@ Each time a player uses a special skill, a number of points decrease as indicate
 <p align="center">
     <img src="./images/demonstration_start.png" title="demonstration_start">    
     demonstration image: game start
-</p
+</p>
 
 <p align="center">
     <img src="./images/demonstration_playing1.png" title="demonstration_playing1">    
     demonstration image: game playing
-</p
+</p>
